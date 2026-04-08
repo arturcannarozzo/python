@@ -12,7 +12,7 @@ https://academy.tcm-sec.com/p/programming-100-fundamentals
 **------------------------------------------------------------------
 
 
-Order_ingestion.py
+Order_ingestion.py - credits KodeKloud
 
 This script is a simple “data ingestion pipeline” for an orders CSV file.
 At a high level, it:
